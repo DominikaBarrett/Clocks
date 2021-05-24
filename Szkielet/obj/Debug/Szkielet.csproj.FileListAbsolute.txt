@@ -1,0 +1,18 @@
+C:\Users\domin\Desktop\PAc#\LifeofAntssssMateusz\Szkielet\Szkielet\bin\Debug\Szkielet.exe
+C:\Users\domin\Desktop\PAc#\LifeofAntssssMateusz\Szkielet\Szkielet\bin\Debug\Szkielet.pdb
+C:\Users\domin\Desktop\PAc#\LifeofAntssssMateusz\Szkielet\Szkielet\obj\Debug\Szkielet.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\PAc#\LifeofAntssssMateusz\Szkielet\Szkielet\obj\Debug\Szkielet.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\PAc#\LifeofAntssssMateusz\Szkielet\Szkielet\obj\Debug\Szkielet.exe
+C:\Users\domin\Desktop\PAc#\LifeofAntssssMateusz\Szkielet\Szkielet\obj\Debug\Szkielet.pdb
+C:\Users\domin\Desktop\New folder (4)\Szkielet - Copy\Szkielet\bin\Debug\Szkielet.exe
+C:\Users\domin\Desktop\New folder (4)\Szkielet - Copy\Szkielet\bin\Debug\Szkielet.pdb
+C:\Users\domin\Desktop\New folder (4)\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\New folder (4)\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\New folder (4)\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.exe
+C:\Users\domin\Desktop\New folder (4)\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.pdb
+C:\Users\domin\Desktop\Zaliczenie\Szkielet - Copy\Szkielet\bin\Debug\Szkielet.exe
+C:\Users\domin\Desktop\Zaliczenie\Szkielet - Copy\Szkielet\bin\Debug\Szkielet.pdb
+C:\Users\domin\Desktop\Zaliczenie\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\Zaliczenie\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\Zaliczenie\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.exe
+C:\Users\domin\Desktop\Zaliczenie\Szkielet - Copy\Szkielet\obj\Debug\Szkielet.pdb
